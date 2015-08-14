@@ -1,4 +1,4 @@
 class sam
 {
-syste.out.println("sam has joined")
+System.out.println("sam has joined group")
 }
