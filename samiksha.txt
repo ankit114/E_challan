@@ -1,0 +1,4 @@
+class sam
+{
+syste.out.println("sam has joined")
+}
