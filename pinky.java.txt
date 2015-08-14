@@ -3,5 +3,9 @@ class User
 
 System.out.println("i hv added  another branch")
 System.out.println("sucessfully done")
+<<<<<<< HEAD
 i changed
+=======
+kritika ne bhi join kr lia
+>>>>>>> 15f3313baa7a7632699c2f3711c09e65ef51d4fe
 }
